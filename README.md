@@ -1,5 +1,12 @@
 # Power BI-AtliQ Hospitality Analysis
 
+## 🔗 Live Dashboard
+👉 [Click here to view the interactive dashboard](https://app.powerbi.com/view?r=eyJrIjoiNGQ5ZDIzMjQtOTZmMi00MTBiLThkYmEtODQ2ZjI0YTdiYTEyIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9 )
+
+## 🖼️ Dashboard Preview
+
+![Dashboard Preview](./dashboard-preview.png)
+
 ## 📘 Project Overview
 AtliQ Grands is a luxury hotel chain with properties in major Indian cities like Mumbai, Delhi, Bangalore, and Hyderabad. Due to rising competition and internal decision-making issues, the company experienced a ~20% drop in revenue and market share. This project uses Power BI to analyze 3 months of booking and operational data to uncover performance gaps and support data-driven recovery strategies.
 
